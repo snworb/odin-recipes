@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 34px;
+    color: rgb(0, 0, 73);
+}
+
+h2 {
+    color:rgb(31, 3, 172);
+    text-decoration: underline;
+}
+
+li, p {
+    padding: 4px;
+    margin-right: 25%;
+}
+
+
+.food-pic {
+    width: 400px;
+    height:auto;
+}
+
+#return {
+    font-size:24px;
+    background-color: yellow;
+}
